@@ -1,0 +1,4 @@
+Enter Binary Number = 100011
+Octal Number is = 43
+Enter Binary Number = 100011
+Hexadecimal Number is = 23

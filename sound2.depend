@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563273009 source:g:\sound2\main.c
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+
